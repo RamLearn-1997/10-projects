@@ -8,14 +8,10 @@
 - [Proj-5 :  Rock Paper Scissors Game](/project-5/ReadMe.md)
 - [Proj-6 :  Pomodoro Timer](/project-6/ReadMe.md)
 - [Proj-7 :  Dice Roll Simulator](/project-7/ReadMe.md)
-
-
-
-
-
-
-
+- [Proj-8 :  Dice Roll Simulator](/project-8/ReadMe.md)
+- [Proj-9 :  Dice Roll Simulator](/project-9/ReadMe.md)
+- [Proj-10 :  Dice Roll Simulator](/project-10/ReadMe.md)
 
 visit website : 100jsprojects.com
 
-Timestamp: 6:47:20
+Timestamp: 7:33:26
