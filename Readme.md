@@ -13,5 +13,3 @@
 - [Proj-10 :  Age Calculator](/project-10/ReadMe.md)
 
 visit website : 100jsprojects.com
-
-Timestamp: 10:10:40
