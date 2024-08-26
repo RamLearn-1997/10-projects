@@ -9,9 +9,9 @@
 - [Proj-6 :  Pomodoro Timer](/project-6/ReadMe.md)
 - [Proj-7 :  Dice Roll Simulator](/project-7/ReadMe.md)
 - [Proj-8 :  Recipe Book App](/project-8/ReadMe.md)
-- [Proj-9 :  Dice Roll Simulator](/project-9/ReadMe.md)
+- [Proj-9 :  Tip Calculator](/project-9/ReadMe.md)
 - [Proj-10 :  Dice Roll Simulator](/project-10/ReadMe.md)
 
 visit website : 100jsprojects.com
 
-Timestamp: 8:30:34
+Timestamp: 9:36:14
